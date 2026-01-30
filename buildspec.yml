@@ -1,0 +1,21 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.11
+    commands:
+      - pip install markdown
+  build:
+    commands:
+      - mkdir site
+      - python - <<EOF
+        import markdown
+        md = open("index.md").read()
+        html = markdown.markdown(md)
+        open("site/index.html", "w").write(html)
+        EOF
+artifacts:
+  files:
+    - '**/*'
+  base-directory: site
