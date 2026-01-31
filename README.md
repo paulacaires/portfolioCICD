@@ -1,6 +1,8 @@
 # portfolioCICD
 Portfólio pessoal simples em Markdown para aprender CI/CD com os serviços da AWS, com foco em fazer o deploy automático.
 
+Link: https://paula-portfolio-ci-cd.s3.sa-east-1.amazonaws.com/index.html
+
 # 1. Configurar GitHub localmente
 1. https://docs.github.com/pt/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 

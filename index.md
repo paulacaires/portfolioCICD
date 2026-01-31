@@ -1,10 +1,10 @@
 # Paula Caires 
 
-🚀 AWS | Backend | Automation
+AWS | Backend | Automation
 
-🇧🇷 São Paulo, Brazil
+Sao Paulo, Brazil
 
-📖 Computer Science student @ Universidade Federal de São Carlos (2027 class)
+Computer Science student @ Universidade Federal de Sao Carlos (2027 class)
 
 ## Skills
 
